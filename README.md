@@ -5,6 +5,7 @@
   <br>
   <p>This project added some colours and extra wallpapers</p>
   <p>Credit to <a href="https://github.com/owerdogan/wallpapers-for-kali/">owerdogan</a></p>
+  <p>Scope note: this is a recolored derivative of that upstream wallpaper set, not original Kali artwork. Each color folder holds one recolor set, and the extras folder holds two additional images. The repo ships images only, no code, and every image shown above was checked against the repo tree.</p>
 </h1>
 
 <div align="center">
