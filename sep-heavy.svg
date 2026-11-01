@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 44" role="img" aria-label="Footlight divider with seven lit domes">
+<rect x="0" y="18" width="1200" height="14" fill="#2a1c20"/>
+<g fill="#ffc46e"><circle cx="130" cy="22" r="10"/><circle cx="300" cy="22" r="10"/><circle cx="470" cy="22" r="10"/><circle cx="600" cy="22" r="10"/><circle cx="730" cy="22" r="10"/><circle cx="900" cy="22" r="10"/><circle cx="1070" cy="22" r="10"/></g>
+<g stroke="#ceb478" stroke-width="3" fill="none"><path d="M118 22 a12 12 0 0 1 24 0"/><path d="M288 22 a12 12 0 0 1 24 0"/><path d="M458 22 a12 12 0 0 1 24 0"/><path d="M588 22 a12 12 0 0 1 24 0"/><path d="M718 22 a12 12 0 0 1 24 0"/><path d="M888 22 a12 12 0 0 1 24 0"/><path d="M1058 22 a12 12 0 0 1 24 0"/></g>
+</svg>

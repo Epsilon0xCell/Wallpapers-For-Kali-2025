@@ -1,3 +1,5 @@
+![Intro scenery](intro-banner.png)
+
 <!-- BANNER -->
   <h1>Recolored Kali Wallpapers 2025</h1>
 <h1 align="center">
@@ -7,6 +9,11 @@
   <p>Credit to <a href="https://github.com/owerdogan/wallpapers-for-kali/">owerdogan</a></p>
   <p>Scope note: this is a recolored derivative of that upstream wallpaper set, not original Kali artwork. Each color folder holds one recolor set, and the extras folder holds two additional images. The repo ships images only, no code, and every image shown above was checked against the repo tree.</p>
 </h1>
+
+![Wordmark banner](banner.png)
+
+![Animated scene](scene.svg)
+
 
 <div align="center">
 <details>
@@ -27,6 +34,8 @@
 <img src="kali-red/red-kali-neon-extras-16x9.png" width="500">
 </details> 
   
+<img src="sep-heavy.svg" alt="Footlight separator">
+
 <details>
 <summary>Kali Green</summary>
 <img src="kali-green/green-kali-abstract-sky-16x9.png" width="500">
@@ -44,6 +53,8 @@
 <img src="kali-green/green-kali-geometric-extras-16x9.png" width="500">
 <img src="kali-green/green-kali-neon-extras-16x9.png" width="500">
 </details> 
+
+<img src="sep-heavy.svg" alt="Footlight separator">
 
 <details>
 <summary>Kali Cyan</summary>
@@ -63,6 +74,8 @@
 <img src="kali-cyan/cyan-kali-neon-extras-16x9.png" width="500">
 </details> 
 
+<img src="sep-heavy.svg" alt="Footlight separator">
+
 <details>
 <summary>Kali Yellow</summary>
 <img src="kali-yellow/yellow-kali-abstract-sky-16x9.png" width="500">
@@ -80,6 +93,8 @@
 <img src="kali-yellow/yellow-kali-geometric-extras-16x9.png" width="500">
 <img src="kali-yellow/yellow-kali-neon-extras-16x9.png" width="500">
 </details> 
+
+<img src="sep-heavy.svg" alt="Footlight separator">
 
 <details>
 <summary>Kali Blue</summary>
@@ -100,6 +115,8 @@
 <img src="kali-blue/blue-kali-neon-extras-16x9.png" width="500">
 </details> 
 
+<img src="sep-heavy.svg" alt="Footlight separator">
+
 <details>
 <summary>Kali Purple</summary>
 <img src="kali-purple/purple-kali-abstract-sky-16x9.png" width="500">
@@ -118,6 +135,8 @@
 <img src="kali-purple/purple-kali-ascii-extras-16x9.png" width="500">
 <img src="kali-purple/purple-kali-neon-extras-16x9.png" width="500">
 </details> 
+
+<img src="sep-heavy.svg" alt="Footlight separator">
 
 <details>
 <summary>Kali Pink</summary>
@@ -138,6 +157,8 @@
 <img src="kali-pink/pink-kali-neon-extras-16x9.png" width="500">
 </details> 
 
+<img src="sep-heavy.svg" alt="Footlight separator">
+
 <details>
 <summary>Kali Orange</summary>
 <img src="kali-orange/orange-kali-abstract-sky-16x9.png" width="500">
@@ -156,6 +177,8 @@
 <img src="kali-orange/orange-kali-ascii-extras-16x9.png" width="500">
 <img src="kali-orange/orange-kali-neon-extras-16x9.png" width="500">
 </details>
+
+<img src="sep-heavy.svg" alt="Footlight separator">
 
 <details>
 <summary>Kali Grey</summary>
@@ -176,6 +199,8 @@
 <img src="kali-grey/grey-kali-neon-extras-16x9.png" width="500">
 </details>
 
+<img src="sep-heavy.svg" alt="Footlight separator">
+
 <details>
 <summary>Kali Black</summary>
 <img src="kali-black/black-kali-abstract-sky-16x9.png" width="500">
@@ -192,6 +217,8 @@
 <img src="kali-black/black-kali-neon-extras-16x9.png" width="500">
 </details>
 
+<img src="sep-heavy.svg" alt="Footlight separator">
+
 <details>
 <summary>Kali White</summary>
 <img src="kali-white/white-kali-abstract-sky-dark-16x9.png" width="500">
@@ -205,6 +232,8 @@
 <img src="kali-white/white-kali-neon-extras-16x9.png" width="500">
 </details>
 
+<img src="sep-heavy.svg" alt="Footlight separator">
+
 <details>
 <summary>Extras</summary>
 <img src="extras/inverted-kali-ascii-extras-16x9.png" width="500">
@@ -212,6 +241,13 @@
 </details>
 
 </div>
+
+> **Prompt slip, upstream credit:** this set is a recolored derivative of the upstream collection by owerdogan, credited in the header above and in the licence section below.
+
+> **Prompt slip, scope:** this repository ships images only. There is no code, no installer, and no setting tool in it.
+
+> **Prompt slip, white folder:** kali-white holds nine files only, with no plain abstract sky, no light strips, no logo, no mesh, and no nova file.
+
 <!-- LICENSE -->
 <h2>License</h2>
 
