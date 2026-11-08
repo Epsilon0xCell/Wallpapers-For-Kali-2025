@@ -1,4 +1,4 @@
-![Intro scenery](intro-banner.png)
+![Intro scenery: two hands holding a scarlet dyed cloth dripping over its oak vat beside its own cream undyed twin, the same weave in two colours side by side, with slate blue vats behind](intro-banner.png)
 
 <!-- BANNER -->
   <h1>Recolored Kali Wallpapers 2025</h1>
@@ -10,7 +10,9 @@
   <p>Scope note: this is a recolored derivative of that upstream wallpaper set, not original Kali artwork. Each color folder holds one recolor set, and the extras folder holds two additional images. The repo ships images only, no code, and every image shown above was checked against the repo tree.</p>
 </h1>
 
-![Wordmark banner](banner.png)
+![Wordmark banner: a dye workshop row of oak vats with lengths of the same linen cloth draped over every rim in different stages of colour, slate blues and greys around one cloth in full scarlet hanging brightest at the centre, steam rising softly](banner.png)
+
+<p align="center"><img src="logo.png" alt="Wallpapers-For-Kali-2025 logo: a round oak dye vat seen from directly above, a length of cream linen half dipped into deep scarlet dye with the colour line climbing the cloth" width="200"></p>
 
 ![Animated scene](scene.svg)
 
